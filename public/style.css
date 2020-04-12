@@ -161,7 +161,7 @@ footer {
   line-height: 0.94;
   letter-spacing: 0.5px;
   text-align: center;
-  color: #ffffff;
+  color: black;
 }
 
 @media (max-width: 860px) {
